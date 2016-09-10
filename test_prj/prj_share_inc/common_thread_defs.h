@@ -1,0 +1,1 @@
+/* we are going to have some common rules for thread */
